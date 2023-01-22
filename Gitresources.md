@@ -1,9 +1,22 @@
 
 
 #### Links
+
+https://github.com/karimhabush/cyberowl
+
+https://github.com/RESETHACKER-COMMUNITY
+
+https://github.com/fdicarlo/eJPT
+
 https://github.com/gwen001/BBvuln
 
 https://github.com/binary-cipher/RedTeam-Tactics-and-Techniques
+
+https://github.com/devanshbatham/Awesome-Bugbounty-Writeups
+
+https://github.com/KingOfBugbounty/KingOfBugBountyTips
+
+https://github.com/trickest
 
 https://github.com/A-poc/RedTeam-Tools
 
@@ -46,6 +59,8 @@ https://github.com/jpillora/chisel
 https://github.com/iinc0gnit0/cryptz
 
 https://github.com/s0md3v/Decodify
+
+https://github.com/BC-SECURITY/Starkiller
 
 https://github.com/Hackplayers/evil-winrm
 
@@ -258,6 +273,8 @@ https://github.com/epinna/tplmap
 
 
 #### WEB
+
+https://github.com/detectify/page-fetch
 
 https://github.com/Dhayalanb/windows-php-reverse-shell.git
 
