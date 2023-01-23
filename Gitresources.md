@@ -2,6 +2,8 @@
 
 #### Links
 
+https://github.com/Hack-with-Github/Awesome-Hacking
+
 https://github.com/karimhabush/cyberowl
 
 https://github.com/RESETHACKER-COMMUNITY
