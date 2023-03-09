@@ -292,7 +292,7 @@ https://github.com/droope/droopescan
 
 https://github.com/rezasp/joomscan
 
-https://wpscan.org
+https://github.com/wpscanteam/wpscan
 
 https://github.com/urbanadventurer/WhatWeb
 
