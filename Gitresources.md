@@ -2,6 +2,12 @@
 
 #### Links
 
+# Collection of PoC in GitHub SInce 1999
+https://github.com/nomi-sec/PoC-in-GitHub
+
+# Art of Hacking - resources related to ethical hacking / penetration testing, digital forensics and incident response (DFIR)
+https://github.com/The-Art-of-Hacking
+
 https://github.com/Hack-with-Github/Awesome-Hacking
 
 https://github.com/karimhabush/cyberowl
